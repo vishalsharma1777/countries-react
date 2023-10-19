@@ -1,4 +1,4 @@
-import '../../styles/Header.css';
+import '../../styles/header.css';
 import { useContext } from "react";
 import { ThemeContext } from "../../contexts/ThemeContext";
 function Header() {
