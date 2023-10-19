@@ -1,0 +1,33 @@
+.noCountry {
+
+    text-align: center;
+    width: 100%;
+    height: 50vh;
+    margin-top: 10rem;
+    font-size: var(--medium-heading);
+    font-weight: var(--large-font-weight);
+    color: var(--Dark-mode-elements);
+}
+
+
+.noCountryDark {
+    color: var(--White);
+}
+
+.error {
+    text-align: center;
+    font-size: var(--medium-heading);
+    font-weight: var(--large-font-weight);
+    color: var(--Dark-mode-elements);
+}
+
+.errorDark {
+    color: var(--White);
+}
+
+.red {
+    color: red;
+    font-size: var(--medium-heading);
+    font-weight: var(--large-font-weight);
+
+}
