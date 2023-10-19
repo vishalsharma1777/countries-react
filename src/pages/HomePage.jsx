@@ -1,4 +1,4 @@
-import '../styles/HomePage.css';
+import '../styles/homepage.css';
 import '../styles/countryCards.css';
 
 import React, { useState, useEffect } from 'react';

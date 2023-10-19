@@ -1,4 +1,4 @@
-import '../../styles/Loader.css';
+import '../../styles/loader.css';
 import { useContext } from 'react';
 import { ThemeContext } from '../../contexts/ThemeContext';
 function Loading() {
